@@ -1,0 +1,10 @@
+2025-04-03 15:25:59,963 - INFO - Cleaned file saved: output_files\Cleaned_Files\data.csv
+2025-04-03 15:25:59,964 - INFO - Moved original file to: input_files\Processed_Files
+2025-04-03 15:25:59,967 - INFO - Archived processed files to: input_files\Archived_Files\archive_20250403_152559.zip
+2025-04-03 15:25:59,967 - INFO - Automation completed successfully.
+2025-04-03 15:31:41,725 - INFO - Archived processed files to: input_files\Archived_Files\archive_20250403_153141.zip
+2025-04-03 15:31:41,725 - INFO - Automation completed successfully.
+2025-04-03 16:19:00,243 - INFO - Cleaned file saved: output_files\Cleaned_Files\Sheet_1.csv
+2025-04-03 16:19:00,244 - INFO - Moved original file to: input_files\Processed_Files
+2025-04-03 16:19:00,246 - INFO - Archived processed files to: input_files\Archived_Files\archive_20250403_161900.zip
+2025-04-03 16:19:00,247 - INFO - Automation completed successfully.
